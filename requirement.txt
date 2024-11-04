@@ -1,0 +1,6 @@
+nltk
+streamlit as st
+string
+nltk.tokenize 
+nltk.corpus 
+nltk.stem 
